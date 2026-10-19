@@ -1,0 +1,63 @@
+# macOS
+.DS_Store
+._*
+
+# 实验产物：二进制与安装包，一律不入库
+*.apk
+*.xapk
+*.aab
+*.jar
+*.so
+*.dex
+*.keystore
+*.jks
+
+# 反编译 / 解包产物
+smali/
+classes*.txt
+*.asm.txt
+
+# 日志、截图、录屏
+*.log
+*.mkv
+*.mp4
+*.png
+*.jpg
+*.jpeg
+
+# 采集数据目录（体积大且含设备标识）
+tmp/
+data/am-*/
+data/car-sessions/
+data/nio-*/
+data/现场完整取证-*/
+data/画质上限取证-*/
+data/icon-preview/
+
+# 编辑器与本地环境
+.idea/
+.vscode/
+*.iml
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+
+# 个人设备信息
+.device-serial
+local.properties
+
+# Local backups and credentials
+backup/
+.env
+.env.*
+*.pem
+*.key
+*.pk8
+*.p7b
+*.idsig
+*.apkm
+*.zip
+data/canvas-power/
+auth-assets/
+offline-mfi/
