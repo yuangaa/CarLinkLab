@@ -1,0 +1,1289 @@
+{
+	"ver": 20260114,
+	"name": "settings_config",
+	"updateApp": {
+		"localVersion": 1,
+		"minCompatibleVersion": 1,
+		"appVersion": 1008004
+	},
+	"controlSwitch": [{
+		"version": 1,
+		"mainSwitch": 1,
+		"notify": 0,
+		"crossApp": 1,
+		"game": 1,
+		"launcher": 1
+	}, {
+		"version": 2,
+		"mainSwitch": 1,
+		"notify": 0,
+		"crossApp": 1,
+		"game": 1,
+		"launcher": 1
+	}],
+	"wlcThreshold": {
+		"high": 43,
+		"low": 40
+	},
+	"supportPkgList": [{
+		"bizType": "cross_dev_notify",
+		"pkgs": []
+	}, {
+		"bizType": "cross_dev_app",
+		"pkgs": [{
+			"pkgName": "com.ss.android.lark",
+			"appName": {
+				"zh_CN": "飞书",
+				"en_ES": "Feishu",
+				"zh_HK": "飛書",
+				"zh_TW": "飛書"
+			},
+			"appNameCharacters": {
+				"zh_CN": "Feishu",
+				"en_ES": "Feishu",
+				"zh_HK": "Feishu",
+				"zh_TW": "Feishu"
+			},
+			"minVer": 6060650,
+			"screenType": 7,
+			"type": 2,
+			"immersive": false,
+			"support_min_window": true,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_52738187_1687172152/256"
+		}, {
+			"pkgName": "com.tencent.wemeet.app",
+			"appName": {
+				"zh_CN": "腾讯会议",
+				"en_ES": "Tencent Meeting",
+				"zh_HK": "腾讯会议",
+				"zh_TW": "腾讯会议"
+			},
+			"appNameCharacters": {
+				"zh_CN": "TengXunHuiYi",
+				"en_ES": "Tencent Meeting",
+				"zh_HK": "TengXunHuiYi",
+				"zh_TW": "TengXunHuiYi"
+			},
+			"minVer": 2023480451,
+			"immersive": false,
+			"screenType": 7,
+			"type": 2,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_53960142_1688542082/256"
+		}, {
+			"pkgName": "com.alibaba.android.rimet",
+			"appName": {
+				"zh_CN": "钉钉",
+				"en_ES": "DingTalk",
+				"zh_HK": "釘釘",
+				"zh_TW": "釘釘"
+			},
+			"appNameCharacters": {
+				"zh_CN": "DingDing",
+				"en_ES": "DingTalk",
+				"zh_HK": "DingDing",
+				"zh_TW": "DingDing"
+			},
+			"minVer": 1062,
+			"screenType": 7,
+			"type": 2,
+			"immersive": false,
+			"support_min_window": true,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_11648167_1686621605/256"
+		}, {
+			"pkgName": "com.tencent.mm",
+			"appName": {
+				"zh_CN": "微信",
+				"en_ES": "WeChat",
+				"zh_HK": "Wechat",
+				"zh_TW": "WeChat"
+			},
+			"appNameCharacters": {
+				"zh_CN": "WeiXin",
+				"en_ES": "Wechat",
+				"zh_HK": "Wechat",
+				"zh_TW": "WeChat"
+			},
+			"minVer": 2441,
+			"screenType": 7,
+			"type": 2,
+			"immersive": false,
+			"support_min_window": true,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_10910_1694435337/256"
+		}, {
+			"pkgName": "cn.wps.moffice_eng",
+			"appName": {
+				"zh_CN": "WPS Office",
+				"en_ES": "WPS Office",
+				"zh_HK": "WPS Office",
+				"zh_TW": "WPS Office"
+			},
+			"appNameCharacters": {
+				"zh_CN": "WPSOffice",
+				"en_ES": "WPSOffice",
+				"zh_HK": "WPSOffice",
+				"zh_TW": "WPSOffice"
+			},
+			"minVer": 2441,
+			"type": 0,
+			"screenType": 7,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_134041_1706000615/256"
+		}, {
+			"pkgName": "com.tencent.qqsports",
+			"appName": {
+				"zh_CN": "腾讯体育",
+				"en_ES": "腾讯体育",
+				"zh_HK": "腾讯体育",
+				"zh_TW": "腾讯体育"
+			},
+			"appNameCharacters": {
+				"zh_CN": "TengXunTiYu",
+				"en_ES": "TengXunTiYu",
+				"zh_HK": "TengXunTiYu",
+				"zh_TW": "TengXunTiYu"
+			},
+			"minVer": 1363,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_1297151_1709000242/256"
+		}, {
+			"pkgName": "com.tencent.androidqqmail",
+			"appName": {
+				"zh_CN": "QQ邮箱",
+				"en_ES": "QQ Mail",
+				"zh_HK": "QQ郵箱",
+				"zh_TW": "QQ郵箱"
+			},
+			"appNameCharacters": {
+				"zh_CN": "QQYouXiang",
+				"en_ES": "QQ Mail",
+				"zh_HK": "QQYouXiang",
+				"zh_TW": "QQYouXiang"
+			},
+			"minVer": 10160517,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_1129680_1706608117/256"
+		}, {
+			"pkgName": "com.netease.mail",
+			"appName": {
+				"zh_CN": "网易邮箱大师",
+				"en_ES": "Mail Master",
+				"zh_HK": "网易邮箱大师",
+				"zh_TW": "网易邮箱大师"
+			},
+			"appNameCharacters": {
+				"zh_CN": "WangYiYouXiangDaShi",
+				"en_ES": "Mail Master",
+				"zh_HK": "WangYiYouXiangDaShi",
+				"zh_TW": "WangYiYouXiangDaShi"
+			},
+			"minVer": 393,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_10709708_1706146710/256"
+		}, {
+			"pkgName": "com.baidu.netdisk",
+			"appName": {
+				"zh_CN": "百度网盘",
+				"en_ES": "百度网盘",
+				"zh_HK": "百度网盘",
+				"zh_TW": "百度网盘"
+			},
+			"appNameCharacters": {
+				"zh_CN": "BaiDuWangPan",
+				"en_ES": "BaiDuWangPan",
+				"zh_HK": "BaiDuWangPan",
+				"zh_TW": "BaiDuWangPan"
+			},
+			"minVer": 2327,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_116071_1708654368/256"
+		}, {
+			"pkgName": "com.microsoft.office.outlook",
+			"appName": {
+				"zh_CN": "Outlook",
+				"en_ES": "Outlook",
+				"zh_HK": "Outlook",
+				"zh_TW": "Outlook"
+			},
+			"appNameCharacters": {
+				"zh_CN": "Outlook",
+				"en_ES": "Outlook",
+				"zh_HK": "Outlook",
+				"zh_TW": "Outlook"
+			},
+			"minVer": 2441,
+			"type": 0,
+			"screenType": 7,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_11764114_1659947365/256"
+		}, {
+			"pkgName": "com.skyui.filemanager",
+			"appName": {
+				"zh_CN": "文件管理",
+				"en_ES": "File Manager",
+				"zh_HK": "檔案管理",
+				"zh_TW": "檔案管理"
+			},
+			"appNameCharacters": {
+				"zh_CN": "WenJianGuanLi",
+				"en_ES": "File Manager",
+				"zh_HK": "DangAnGuanLi",
+				"zh_TW": "DangAnGuanLi"
+			},
+			"minVer": 1000,
+			"screenType": 5,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_54137569_1702979469/256"
+		}, {
+			"pkgName": "com.ss.android.ugc.aweme",
+			"appName": {
+				"zh_CN": "抖音",
+				"en_ES": "DouYin",
+				"zh_HK": "抖音",
+				"zh_TW": "抖音"
+			},
+			"appNameCharacters": {
+				"zh_CN": "DouYin",
+				"en_ES": "DouYin",
+				"zh_HK": "DouYin",
+				"zh_TW": "DouYin"
+			},
+			"minVer": 300601,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_42350811_1720001502/256"
+		}, {
+			"pkgName": "tv.danmaku.bili",
+			"appName": {
+				"zh_CN": "哔哩哔哩",
+				"en_ES": "Bilibili",
+				"zh_HK": "哔哩哔哩",
+				"zh_TW": "哔哩哔哩"
+			},
+			"appNameCharacters": {
+				"zh_CN": "Bilibili",
+				"en_ES": "Bilibili",
+				"zh_HK": "Bilibili",
+				"zh_TW": "Bilibili"
+			},
+			"minVer": 8300300,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_73622_1741158203/256"
+		}, {
+			"pkgName": "cn.com.weilaihui3",
+			"appName": {
+				"zh_CN": "蔚来",
+				"en_ES": "蔚来",
+				"zh_HK": "蔚来",
+				"zh_TW": "蔚来"
+			},
+			"appNameCharacters": {
+				"zh_CN": "WeiLai",
+				"en_ES": "WeiLai",
+				"zh_HK": "WeiLai",
+				"zh_TW": "WeiLai"
+			},
+			"minVer": 565,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_42286884_1737514819/256"
+		}, {
+			"pkgName": "com.xingin.xhs",
+			"appName": {
+				"zh_CN": "小红书",
+				"en_ES": "rednote",
+				"zh_HK": "小紅書",
+				"zh_TW": "小紅書"
+			},
+			"appNameCharacters": {
+				"zh_CN": "XiaoHongShu",
+				"en_ES": "ReadNote",
+				"zh_HK": "XiaoHongShu",
+				"zh_TW": "XiaoHongShu"
+			},
+			"minVer": 8691596,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_10868231_1737540489/256"
+		}, {
+			"pkgName": "com.tencent.qqlive",
+			"appName": {
+				"zh_CN": "腾讯视频",
+				"en_ES": "腾讯视频",
+				"zh_HK": "腾讯视频",
+				"zh_TW": "腾讯视频"
+			},
+			"appNameCharacters": {
+				"zh_CN": "TengXunShiPin",
+				"en_ES": "TengXunShiPin",
+				"zh_HK": "TengXunShiPin",
+				"zh_TW": "TengXunShiPin"
+			},
+			"minVer": 29542,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_3040_1741682231/256"
+		}, {
+			"pkgName": "com.qiyi.video",
+			"appName": {
+				"zh_CN": "爱奇艺",
+				"en_ES": "爱奇艺",
+				"zh_HK": "爱奇艺",
+				"zh_TW": "爱奇艺"
+			},
+			"appNameCharacters": {
+				"zh_CN": "AiQiYi",
+				"en_ES": "AiQiYi",
+				"zh_HK": "AiQiYi",
+				"zh_TW": "AiQiYi"
+			},
+			"minVer": 800160150,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_7720_1738901202/256"
+		}, {
+			"pkgName": "com.hexin.plat.android",
+			"appName": {
+				"zh_CN": "同花顺",
+				"en_ES": "同花顺",
+				"zh_HK": "同花顺",
+				"zh_TW": "同花顺"
+			},
+			"appNameCharacters": {
+				"zh_CN": "TongHuaShun",
+				"en_ES": "TongHuaShun",
+				"zh_HK": "TongHuaShun",
+				"zh_TW": "TongHuaShun"
+			},
+			"minVer": 5052,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_6754_1741675368/256"
+		}, {
+			"pkgName": "com.google.android.youtube",
+			"appName": {
+				"zh_CN": "YouTube",
+				"en_ES": "YouTube",
+				"zh_HK": "YouTube",
+				"zh_TW": "YouTube"
+			},
+			"appNameCharacters": {
+				"zh_CN": "YouTube",
+				"en_ES": "YouTube",
+				"zh_HK": "YouTube",
+				"zh_TW": "YouTube"
+			},
+			"minVer": 100,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_54391342_1718760299/256"
+		}, {
+			"pkgName": "com.eastmoney.android.berlin",
+			"appName": {
+				"zh_CN": "东方财富",
+				"en_ES": "Eastmoney",
+				"zh_HK": "東方財富",
+				"zh_TW": "東方財富"
+			},
+			"appNameCharacters": {
+				"zh_CN": "DongFangCaiFu",
+				"en_ES": "EastMoney",
+				"zh_HK": "DongFangCaiFu",
+				"zh_TW": "DongFangCaiFu"
+			},
+			"minVer": 10023010,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_269677_1737509277/256"
+		}, {
+			"pkgName": "com.ss.android.yumme.video",
+			"appName": {
+				"zh_CN": "抖音精选",
+				"en_ES": "抖音精选",
+				"zh_HK": "抖音精选",
+				"zh_TW": "抖音精选"
+			},
+			"appNameCharacters": {
+				"zh_CN": "DouyinJingXuan",
+				"en_ES": "DouYinYumme",
+				"zh_HK": "DouyinJingXuan",
+				"zh_TW": "DouyinJingXuan"
+			},
+			"minVer": 320701,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_54290999_1737456876/256"
+		}, {
+			"pkgName": "com.ss.android.ugc.aweme.lite",
+			"appName": {
+				"zh_CN": "抖音极速版",
+				"en_ES": "抖音极速版",
+				"zh_HK": "抖音极速版",
+				"zh_TW": "抖音极速版"
+			},
+			"appNameCharacters": {
+				"zh_CN": "DouYinJiSu",
+				"en_ES": "DouYinLite",
+				"zh_HK": "DouYinJiSu",
+				"zh_TW": "DouYinJiSu"
+			},
+			"minVer": 320801,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_53918993_1737366221/256"
+		}, {
+			"pkgName": "com.sina.weibo",
+			"appName": {
+				"zh_CN": "微博",
+				"en_ES": "Weibo",
+				"zh_HK": "微博",
+				"zh_TW": "微博"
+			},
+			"appNameCharacters": {
+				"zh_CN": "WeiBo",
+				"en_ES": "WeiBo",
+				"zh_HK": "WeiBo",
+				"zh_TW": "WeiBo"
+			},
+			"minVer": 6501,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_9926_1701855671/256"
+		}, {
+			"pkgName": "com.phoenix.read",
+			"appName": {
+				"zh_CN": "红果免费短剧",
+				"en_ES": "红果免费短剧",
+				"zh_HK": "红果免费短剧",
+				"zh_TW": "红果免费短剧"
+			},
+			"appNameCharacters": {
+				"zh_CN": "HongGuoMianFeiDuanJu",
+				"en_ES": "HongGuoMianFeiDuanJu",
+				"zh_HK": "HongGuoMianFeiDuanJu",
+				"zh_TW": "HongGuoMianFeiDuanJu"
+			},
+			"minVer": 65532,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_54278041_1741316252/256"
+		}, {
+			"pkgName": "com.smile.gifmaker",
+			"appName": {
+				"zh_CN": "快手",
+				"en_ES": "Kuaishou",
+				"zh_HK": "快手",
+				"zh_TW": "快手"
+			},
+			"appNameCharacters": {
+				"zh_CN": "KuaiShou",
+				"en_ES": "KuaiShou",
+				"zh_HK": "KuaiShou",
+				"zh_TW": "KuaiShou"
+			},
+			"minVer": 40125,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_2608_1738930087/256"
+		}, {
+			"pkgName": "com.youku.phone",
+			"appName": {
+				"zh_CN": "优酷视频",
+				"en_ES": "优酷视频",
+				"zh_HK": "优酷视频",
+				"zh_TW": "优酷视频"
+			},
+			"appNameCharacters": {
+				"zh_CN": "YouKuShiPin",
+				"en_ES": "YouKuShiPin",
+				"zh_HK": "YouKuShiPin",
+				"zh_TW": "YouKuShiPin"
+			},
+			"minVer": 786,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_10197_1737533622/256"
+		}, {
+			"pkgName": "com.hundsun.winner.pazq",
+			"appName": {
+				"zh_CN": "平安证券",
+				"en_ES": "平安证券",
+				"zh_HK": "平安证券",
+				"zh_TW": "平安证券"
+			},
+			"appNameCharacters": {
+				"zh_CN": "PingAnZhengQuan",
+				"en_ES": "PingAnZhengQuan",
+				"zh_HK": "PingAnZhengQuan",
+				"zh_TW": "PingAnZhengQuan"
+			},
+			"minVer": 906010,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_1296762_1732866623/256"
+		}, {
+			"pkgName": "air.tv.douyu.android",
+			"appName": {
+				"zh_CN": "斗鱼",
+				"en_ES": "斗鱼",
+				"zh_HK": "斗鱼",
+				"zh_TW": "斗鱼"
+			},
+			"appNameCharacters": {
+				"zh_CN": "DouYu",
+				"en_ES": "DouYu",
+				"zh_HK": "DouYu",
+				"zh_TW": "DouYu"
+			},
+			"minVer": 10789005,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_10921913_1737685464/256"
+		}, {
+			"pkgName": "com.hunantv.imgo.activity",
+			"appName": {
+				"zh_CN": "芒果TV",
+				"en_ES": "芒果TV",
+				"zh_HK": "芒果TV",
+				"zh_TW": "芒果TV"
+			},
+			"appNameCharacters": {
+				"zh_CN": "MangGuoTv",
+				"en_ES": "MangGuoTv",
+				"zh_HK": "MangGuoTv",
+				"zh_TW": "MangGuoTv"
+			},
+			"minVer": 8303100,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_200479_1740706184/256"
+		}, {
+			"pkgName": "com.duowan.kiwi",
+			"appName": {
+				"zh_CN": "虎牙直播",
+				"en_ES": "虎牙直播",
+				"zh_HK": "虎牙直播",
+				"zh_TW": "虎牙直播"
+			},
+			"appNameCharacters": {
+				"zh_CN": "HuYaZhiBo",
+				"en_ES": "HuYaZhiBo",
+				"zh_HK": "HuYaZhiBo",
+				"zh_TW": "HuYaZhiBo"
+			},
+			"minVer": 99309,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_10328082_1737529521/256"
+		}, {
+			"pkgName": "com.nio.alps",
+			"appName": {
+				"zh_CN": "乐道汽车",
+				"en_ES": "乐道汽车",
+				"zh_HK": "乐道汽车",
+				"zh_TW": "乐道汽车"
+			},
+			"appNameCharacters": {
+				"zh_CN": "LeDaoQiChe",
+				"en_ES": "LeDaoQiChe",
+				"zh_HK": "LeDaoQiChe",
+				"zh_TW": "LeDaoQiChe"
+			},
+			"minVer": 6,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_54378213_1737098674/256"
+		}, {
+			"pkgName": "com.cctv.yangshipin.app.androidp",
+			"appName": {
+				"zh_CN": "央视频",
+				"en_ES": "央视频",
+				"zh_HK": "央视频",
+				"zh_TW": "央视频"
+			},
+			"appNameCharacters": {
+				"zh_CN": "YangShiPin",
+				"en_ES": "YangShiPin",
+				"zh_HK": "YangShiPin",
+				"zh_TW": "YangShiPin"
+			},
+			"minVer": 300060,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_53950706_1740622688/256"
+		}, {
+			"pkgName": "com.cmschina.stock",
+			"appName": {
+				"zh_CN": "招商证券",
+				"en_ES": "招商证券",
+				"zh_HK": "招商证券",
+				"zh_TW": "招商证券"
+			},
+			"appNameCharacters": {
+				"zh_CN": "ZhaoShangZhengQuan",
+				"en_ES": "ZhaoShangZhengQuan",
+				"zh_HK": "ZhaoShangZhengQuan",
+				"zh_TW": "ZhaoShangZhengQuan"
+			},
+			"minVer": 770,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_12160815_1736844797/256"
+		}, {
+			"pkgName": "com.ss.android.article.video",
+			"appName": {
+				"zh_CN": "西瓜视频",
+				"en_ES": "西瓜视频",
+				"zh_HK": "西瓜视频",
+				"zh_TW": "西瓜视频"
+			},
+			"appNameCharacters": {
+				"zh_CN": "XiGuaShiPin",
+				"en_ES": "XiGuaShiPin",
+				"zh_HK": "XiGuaShiPin",
+				"zh_TW": "XiGuaShiPin"
+			},
+			"minVer": 916,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_42294302_1738748254/256"
+		}, {
+			"pkgName": "com.guosen.android",
+			"appName": {
+				"zh_CN": "国信金太阳",
+				"en_ES": "国信金太阳",
+				"zh_HK": "国信金太阳",
+				"zh_TW": "国信金太阳"
+			},
+			"appNameCharacters": {
+				"zh_CN": "GuoXinJinTaiYang",
+				"en_ES": "GuoXinJinTaiYang",
+				"zh_HK": "GuoXinJinTaiYang",
+				"zh_TW": "GuoXinJinTaiYang"
+			},
+			"minVer": 241,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_9827_1737078182/256"
+		}, {
+			"pkgName": "com.kuaishou.nebula",
+			"appName": {
+				"zh_CN": "快手极速版",
+				"en_ES": "快手极速版",
+				"zh_HK": "快手极速版",
+				"zh_TW": "快手极速版"
+			},
+			"appNameCharacters": {
+				"zh_CN": "KuaiShouJiSuBan",
+				"en_ES": "KuaiShouLite",
+				"zh_HK": "KuaiShouJiSuBan",
+				"zh_TW": "KuaiShouJiSuBan"
+			},
+			"minVer": 9265,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_52750274_1741246959/256"
+		}, {
+			"pkgName": "com.cmcc.cmvideo",
+			"appName": {
+				"zh_CN": "咪咕视频",
+				"en_ES": "Migu Video",
+				"zh_HK": "Migu Video",
+				"zh_TW": "Migu Video"
+			},
+			"appNameCharacters": {
+				"zh_CN": "MiGuShiPin",
+				"en_ES": "MiGuVideo",
+				"zh_HK": "MiGuVideo",
+				"zh_TW": "MiGuVideo"
+			},
+			"minVer": 260330009,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_10939789_1741667008/256"
+		}, {
+			"pkgName": "com.zxscnew",
+			"appName": {
+				"zh_CN": "中信证券",
+				"en_ES": "中信证券",
+				"zh_HK": "中信证券",
+				"zh_TW": "中信证券"
+			},
+			"appNameCharacters": {
+				"zh_CN": "ZhongXinZhengQuan",
+				"en_ES": "ZhongXinZhengQuan",
+				"zh_HK": "ZhongXinZhengQuan",
+				"zh_TW": "ZhongXinZhengQuan"
+			},
+			"minVer": 2024083000,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_42273588_1736213415/256"
+		}, {
+			"pkgName": "cn.xuexi.android",
+			"appName": {
+				"zh_CN": "学习强国",
+				"en_ES": "学习强国",
+				"zh_HK": "学习强国",
+				"zh_TW": "学习强国"
+			},
+			"appNameCharacters": {
+				"zh_CN": "XueXiQiangGuo",
+				"en_ES": "XueXiQiangGuo",
+				"zh_HK": "XueXiQiangGuo",
+				"zh_TW": "XueXiQiangGuo"
+			},
+			"minVer": 25902,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_52803833_1736278389/256"
+		}, {
+			"pkgName": "com.android.chrome",
+			"appName": {
+				"zh_CN": "Chrome",
+				"en_ES": "Chrome",
+				"zh_HK": "Chrome",
+				"zh_TW": "Chrome"
+			},
+			"appNameCharacters": {
+				"zh_CN": "Chrome",
+				"en_ES": "Chrome",
+				"zh_HK": "Chrome",
+				"zh_TW": "Chrome"
+			},
+			"minVer": 390000000,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_74260_1609923779/256"
+		}, {
+			"pkgName": "com.ss.android.article.news",
+			"appName": {
+				"zh_CN": "今日头条",
+				"en_ES": "Toutiao",
+				"zh_HK": "今日頭條",
+				"zh_TW": "今日頭條"
+			},
+			"appNameCharacters": {
+				"zh_CN": "JinRiTouTiao",
+				"en_ES": "Toutiao",
+				"zh_HK": "JinRiTouTiao",
+				"zh_TW": "JinRiTouTiao"
+			},
+			"minVer": 10100,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_213141_1731594566/256"
+		}, {
+			"pkgName": "com.quark.browser",
+			"appName": {
+				"zh_CN": "夸克",
+				"en_ES": "夸克",
+				"zh_HK": "夸克",
+				"zh_TW": "夸克"
+			},
+			"appNameCharacters": {
+				"zh_CN": "KuaKe",
+				"en_ES": "KuaKe",
+				"zh_HK": "KuaKe",
+				"zh_TW": "KuaKe"
+			},
+			"minVer": 762,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_42375936_1741602783/256"
+		}, {
+			"pkgName": "com.netease.filmlytv",
+			"appName": {
+				"zh_CN": "网易爆米花",
+				"en_ES": "网易爆米花",
+				"zh_HK": "网易爆米花",
+				"zh_TW": "网易爆米花"
+			},
+			"appNameCharacters": {
+				"zh_CN": "WangYiBaoMiHua",
+				"en_ES": "WangYiBaoMiHua",
+				"zh_HK": "WangYiBaoMiHua",
+				"zh_TW": "WangYiBaoMiHua"
+			},
+			"minVer": 311,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_54397981_1767086633/256"
+		}, {
+			"pkgName": "com.oumi.utility.media.hub",
+			"appName": {
+				"zh_CN": "VidHub",
+				"en_ES": "VidHub",
+				"zh_HK": "VidHub",
+				"zh_TW": "VidHub"
+			},
+			"appNameCharacters": {
+				"zh_CN": "VidHub",
+				"en_ES": "VidHub",
+				"zh_HK": "VidHub",
+				"zh_TW": "VidHub"
+			},
+			"minVer": 84,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_54449076_1763429867/256"
+		}, {
+			"pkgName": "cn.futu.trader",
+			"appName": {
+				"zh_CN": "富途牛牛",
+				"en_ES": "Futubull",
+				"zh_HK": "富途牛牛",
+				"zh_TW": "富途牛牛"
+			},
+			"appNameCharacters": {
+				"zh_CN": "FuTuNiuNiu",
+				"en_ES": "Futubull",
+				"zh_HK": "FuTuNiuNiu",
+				"zh_TW": "FuTuNiuNiu"
+			},
+			"minVer": 10608,
+			"screenType": 7,
+			"type": 0,
+			"immersive": false,
+			"support_min_window": false,
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_10418219_1683199916/96"
+		}]
+	}, {
+		"bizType": "cross_dev_game",
+		"pkgs": [{
+			"pkgName": "com.tencent.tmgp.aligames.kybc",
+			"appName": {
+				"zh_CN": "狂野飙车",
+				"en_ES": "狂野飙车",
+				"zh_HK": "狂野飙车",
+				"zh_TW": "狂野飙车"
+			},
+			"appNameCharacters": {
+				"zh_CN": "KuangYeBiaoChe",
+				"en_ES": "KuangYeBiaoChe",
+				"zh_HK": "KuangYeBiaoChe",
+				"zh_TW": "KuangYeBiaoChe"
+			},
+			"minVer": 36033,
+			"type": 1,
+			"immersive": true,
+			"screenType": 3,
+			"immersiveDisplayMode": "fitX",
+			"supportSize": [1728, 1296],
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_53688241_1683792022/256",
+			"gameSize": [{
+				"screenType": 1,
+				"immersiveDisplayMode": "fitX",
+				"size": [1728, 1296]
+			}, {
+				"screenType": 2,
+				"immersiveDisplayMode": "fitXY"
+			}, {
+				"screenType": 4,
+				"immersiveDisplayMode": "fitXY"
+			}, {
+				"screenType": 8,
+				"immersiveDisplayMode": "fitXY"
+			}]
+		}, {
+			"pkgName": "com.tencent.tmgp.g67",
+			"appName": {
+				"zh_CN": "暗黑破坏神:不朽",
+				"en_ES": "暗黑破坏神:不朽",
+				"zh_HK": "暗黑破坏神:不朽",
+				"zh_TW": "暗黑破坏神:不朽"
+			},
+			"appNameCharacters": {
+				"zh_CN": "AnHeiPoHuaiShen:BuXiu",
+				"en_ES": "AnHeiPoHuaiShen:BuXiu",
+				"zh_HK": "AnHeiPoHuaiShen:BuXiu",
+				"zh_TW": "AnHeiPoHuaiShen:BuXiu"
+			},
+			"minVer": 14382342,
+			"type": 1,
+			"immersive": true,
+			"screenType": 3,
+			"immersiveDisplayMode": "fitX",
+			"supportSize": [1728, 1296],
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_54217670_1686790815/256",
+			"gameSize": [{
+				"screenType": 1,
+				"immersiveDisplayMode": "fitX",
+				"size": [1728, 1296]
+			}, {
+				"screenType": 2,
+				"immersiveDisplayMode": "fitXY"
+			}, {
+				"screenType": 4,
+				"immersiveDisplayMode": "fitXY"
+			}, {
+				"screenType": 8,
+				"immersiveDisplayMode": "fitXY"
+			}]
+		}, {
+			"pkgName": "com.tencent.tmgp.bilibili.deadcells.mobile",
+			"appName": {
+				"zh_CN": "重生细胞",
+				"en_ES": "Dead Cells",
+				"zh_HK": "Dead Cells",
+				"zh_TW": "Dead Cells"
+			},
+			"appNameCharacters": {
+				"zh_CN": "ChongShengXiBao",
+				"en_ES": "Dead Cells",
+				"zh_HK": "ChongShengXiBao",
+				"zh_TW": "ChongShengXiBao"
+			},
+			"minVer": 189,
+			"type": 1,
+			"screenType": 3,
+			"immersive": true,
+			"immersiveDisplayMode": "fitX",
+			"supportSize": [1728, 1296],
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_54117525_1688626815/256",
+			"gameSize": [{
+				"screenType": 1,
+				"immersiveDisplayMode": "fitX",
+				"size": [1728, 1296]
+			}, {
+				"screenType": 2,
+				"immersiveDisplayMode": "fitXY"
+			}, {
+				"screenType": 4,
+				"immersiveDisplayMode": "fitXY"
+			}, {
+				"screenType": 8,
+				"immersiveDisplayMode": "fitXY"
+			}]
+		}, {
+			"pkgName": "com.tencent.jkchess",
+			"appName": {
+				"zh_CN": "金铲铲之战",
+				"en_ES": "金铲铲之战",
+				"zh_HK": "金铲铲之战",
+				"zh_TW": "金铲铲之战"
+			},
+			"appNameCharacters": {
+				"zh_CN": "JinChanChanZhiZhan",
+				"en_ES": "JinChanChanZhiZhan",
+				"zh_HK": "JinChanChanZhiZhan",
+				"zh_TW": "JinChanChanZhiZhan"
+			},
+			"minVer": 998,
+			"type": 1,
+			"screenType": 1,
+			"immersive": true,
+			"immersiveDisplayMode": "fitX",
+			"supportSize": [1728, 1296],
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_54152245_1695227541/256",
+			"gameSize": [{
+				"screenType": 1,
+				"immersiveDisplayMode": "fitX",
+				"size": [1728, 1296]
+			}, {
+				"screenType": 2,
+				"immersiveDisplayMode": "fitXY"
+			}, {
+				"screenType": 4,
+				"immersiveDisplayMode": "fitXY"
+			}, {
+				"screenType": 8,
+				"immersiveDisplayMode": "fitXY"
+			}]
+		}, {
+			"pkgName": "com.tencent.tmgp.supercell.clashroyale",
+			"appName": {
+				"zh_CN": "皇室战争",
+				"en_ES": "Clash Royale",
+				"zh_HK": "皇室戰爭",
+				"zh_TW": "皇室戰爭"
+			},
+			"appNameCharacters": {
+				"zh_CN": "HuangShiZhanZheng",
+				"en_ES": "Clash Royale",
+				"zh_HK": "HuangShiZhanZheng",
+				"zh_TW": "HuangShiZhanZheng"
+			},
+			"minVer": 576,
+			"type": 1,
+			"screenType": 1,
+			"immersive": true,
+			"immersiveDisplayMode": "fitXY",
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_42302142_1698969759/256",
+			"gameSize": [{
+				"screenType": 1,
+				"immersiveDisplayMode": "fitXY"
+			}, {
+				"screenType": 2,
+				"immersiveDisplayMode": "fitXY"
+			}, {
+				"screenType": 4,
+				"immersiveDisplayMode": "fitXY"
+			}, {
+				"screenType": 8,
+				"immersiveDisplayMode": "fitXY"
+			}]
+		}, {
+			"pkgName": "com.tencent.tmgp.dfjs",
+			"appName": {
+				"zh_CN": "巅峰极速",
+				"en_ES": "巅峰极速",
+				"zh_HK": "巅峰极速",
+				"zh_TW": "巅峰极速"
+			},
+			"appNameCharacters": {
+				"zh_CN": "DianFengJiSu",
+				"en_ES": "DianFengJiSu",
+				"zh_HK": "DianFengJiSu",
+				"zh_TW": "DianFengJiSu"
+			},
+			"minVer": 91,
+			"type": 1,
+			"screenType": 1,
+			"immersive": true,
+			"immersiveDisplayMode": "fitX",
+			"supportSize": [1728, 1296],
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_54285285_1706769624/256",
+			"gameSize": [{
+				"screenType": 1,
+				"immersiveDisplayMode": "fitX",
+				"size": [1728, 1296]
+			}, {
+				"screenType": 2,
+				"immersiveDisplayMode": "fitXY"
+			}, {
+				"screenType": 4,
+				"immersiveDisplayMode": "fitXY"
+			}, {
+				"screenType": 8,
+				"immersiveDisplayMode": "fitXY"
+			}]
+		}, {
+			"pkgName": "com.tencent.tmgp.aceracer",
+			"appName": {
+				"zh_CN": "王牌竞速",
+				"en_ES": "王牌竞速",
+				"zh_HK": "王牌竞速",
+				"zh_TW": "王牌竞速"
+			},
+			"appNameCharacters": {
+				"zh_CN": "WangPaiJingSu",
+				"en_ES": "WangPaiJingSu",
+				"zh_HK": "WangPaiJingSu",
+				"zh_TW": "WangPaiJingSu"
+			},
+			"minVer": 40400,
+			"type": 1,
+			"screenType": 1,
+			"immersive": true,
+			"immersiveDisplayMode": "fitX",
+			"supportSize": [1728, 1296],
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_54158215_1706518183/256",
+			"gameSize": [{
+				"screenType": 1,
+				"immersiveDisplayMode": "fitX",
+				"size": [1728, 1296]
+			}, {
+				"screenType": 2,
+				"immersiveDisplayMode": "fitXY"
+			}, {
+				"screenType": 4,
+				"immersiveDisplayMode": "fitXY"
+			}, {
+				"screenType": 8,
+				"immersiveDisplayMode": "fitXY"
+			}]
+		}, {
+			"pkgName": "com.tencent.tmgp.yongyong.skzq",
+			"appName": {
+				"zh_CN": "实况足球",
+				"en_ES": "实况足球",
+				"zh_HK": "实况足球",
+				"zh_TW": "实况足球"
+			},
+			"appNameCharacters": {
+				"zh_CN": "ShiKuangZuQiu",
+				"en_ES": "ShiKuangZuQiu",
+				"zh_HK": "ShiKuangZuQiu",
+				"zh_TW": "ShiKuangZuQiu"
+			},
+			"minVer": 308020001,
+			"type": 1,
+			"screenType": 1,
+			"immersive": true,
+			"immersiveDisplayMode": "fitX",
+			"supportSize": [1728, 1296],
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_52656803_1704765615/256",
+			"gameSize": [{
+				"screenType": 1,
+				"immersiveDisplayMode": "fitX",
+				"size": [1728, 1296]
+			}, {
+				"screenType": 2,
+				"immersiveDisplayMode": "fitXY"
+			}, {
+				"screenType": 4,
+				"immersiveDisplayMode": "fitXY"
+			}, {
+				"screenType": 8,
+				"immersiveDisplayMode": "fitXY"
+			}]
+		}, {
+			"pkgName": "com.tencent.tmgp.eyou.eygy",
+			"appName": {
+				"zh_CN": "光·遇",
+				"en_ES": "光·遇",
+				"zh_HK": "光·遇",
+				"zh_TW": "光·遇"
+			},
+			"appNameCharacters": {
+				"zh_CN": "GuangYu",
+				"en_ES": "GuangYu",
+				"zh_HK": "GuangYu",
+				"zh_TW": "GuangYu"
+			},
+			"minVer": 240939,
+			"type": 1,
+			"screenType": 1,
+			"immersive": true,
+			"immersiveDisplayMode": "fitX",
+			"supportSize": [1728, 1296],
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_53801931_1706580421/256",
+			"gameSize": [{
+				"screenType": 1,
+				"immersiveDisplayMode": "fitX",
+				"size": [1728, 1296]
+			}, {
+				"screenType": 2,
+				"immersiveDisplayMode": "fitXY"
+			}, {
+				"screenType": 4,
+				"immersiveDisplayMode": "fitXY"
+			}, {
+				"screenType": 8,
+				"immersiveDisplayMode": "fitXY"
+			}]
+		}, {
+			"pkgName": "com.happyelements.AndroidAnimal.qq",
+			"appName": {
+				"zh_CN": "开心消消乐",
+				"en_ES": "Anipop",
+				"zh_HK": "開心消消樂",
+				"zh_TW": "開心消消樂"
+			},
+			"appNameCharacters": {
+				"zh_CN": "KaiXinXiaoXiaoLe",
+				"en_ES": "Anipop",
+				"zh_HK": "KaiXinXiaoXiaoLe",
+				"zh_TW": "KaiXinXiaoXiaoLe"
+			},
+			"minVer": 130,
+			"type": 1,
+			"screenType": 9,
+			"immersive": true,
+			"immersiveDisplayMode": "fitXY",
+			"appIcon": "https://pp.myapp.com/ma_icon/0/icon_10556677_1699840810/256",
+			"gameSize": [{
+				"screenType": 1,
+				"immersiveDisplayMode": "fitY",
+				"size": [1728, 1888]
+			}, {
+				"screenType": 2,
+				"immersiveDisplayMode": "fitXY"
+			}, {
+				"screenType": 4,
+				"immersiveDisplayMode": "fitXY"
+			}, {
+				"screenType": 8,
+				"immersiveDisplayMode": "fitY",
+				"size": [1700, 1880]
+			}]
+		}]
+	}, {
+		"bizType": "free_window",
+		"pkgs": []
+	}]
+}

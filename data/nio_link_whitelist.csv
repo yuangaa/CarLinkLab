@@ -1,0 +1,56 @@
+bizType,pkgName,appName_zh,appName_en,screenType,type,immersive,immersiveDisplayMode,supportSize,support_min_window,minVer,appIcon
+cross_dev_app,com.ss.android.lark,飞书,Feishu,7,2,False,,,True,6060650,https://pp.myapp.com/ma_icon/0/icon_52738187_1687172152/256
+cross_dev_app,com.tencent.wemeet.app,腾讯会议,Tencent Meeting,7,2,False,,,False,2023480451,https://pp.myapp.com/ma_icon/0/icon_53960142_1688542082/256
+cross_dev_app,com.alibaba.android.rimet,钉钉,DingTalk,7,2,False,,,True,1062,https://pp.myapp.com/ma_icon/0/icon_11648167_1686621605/256
+cross_dev_app,com.tencent.mm,微信,WeChat,7,2,False,,,True,2441,https://pp.myapp.com/ma_icon/0/icon_10910_1694435337/256
+cross_dev_app,cn.wps.moffice_eng,WPS Office,WPS Office,7,0,False,,,False,2441,https://pp.myapp.com/ma_icon/0/icon_134041_1706000615/256
+cross_dev_app,com.tencent.qqsports,腾讯体育,腾讯体育,7,0,False,,,False,1363,https://pp.myapp.com/ma_icon/0/icon_1297151_1709000242/256
+cross_dev_app,com.tencent.androidqqmail,QQ邮箱,QQ Mail,7,0,False,,,False,10160517,https://pp.myapp.com/ma_icon/0/icon_1129680_1706608117/256
+cross_dev_app,com.netease.mail,网易邮箱大师,Mail Master,7,0,False,,,False,393,https://pp.myapp.com/ma_icon/0/icon_10709708_1706146710/256
+cross_dev_app,com.baidu.netdisk,百度网盘,百度网盘,7,0,False,,,False,2327,https://pp.myapp.com/ma_icon/0/icon_116071_1708654368/256
+cross_dev_app,com.microsoft.office.outlook,Outlook,Outlook,7,0,False,,,False,2441,https://pp.myapp.com/ma_icon/0/icon_11764114_1659947365/256
+cross_dev_app,com.skyui.filemanager,文件管理,File Manager,5,0,False,,,False,1000,https://pp.myapp.com/ma_icon/0/icon_54137569_1702979469/256
+cross_dev_app,com.ss.android.ugc.aweme,抖音,DouYin,7,0,False,,,False,300601,https://pp.myapp.com/ma_icon/0/icon_42350811_1720001502/256
+cross_dev_app,tv.danmaku.bili,哔哩哔哩,Bilibili,7,0,False,,,False,8300300,https://pp.myapp.com/ma_icon/0/icon_73622_1741158203/256
+cross_dev_app,cn.com.weilaihui3,蔚来,蔚来,7,0,False,,,False,565,https://pp.myapp.com/ma_icon/0/icon_42286884_1737514819/256
+cross_dev_app,com.xingin.xhs,小红书,rednote,7,0,False,,,False,8691596,https://pp.myapp.com/ma_icon/0/icon_10868231_1737540489/256
+cross_dev_app,com.tencent.qqlive,腾讯视频,腾讯视频,7,0,False,,,False,29542,https://pp.myapp.com/ma_icon/0/icon_3040_1741682231/256
+cross_dev_app,com.qiyi.video,爱奇艺,爱奇艺,7,0,False,,,False,800160150,https://pp.myapp.com/ma_icon/0/icon_7720_1738901202/256
+cross_dev_app,com.hexin.plat.android,同花顺,同花顺,7,0,False,,,False,5052,https://pp.myapp.com/ma_icon/0/icon_6754_1741675368/256
+cross_dev_app,com.google.android.youtube,YouTube,YouTube,7,0,False,,,False,100,https://pp.myapp.com/ma_icon/0/icon_54391342_1718760299/256
+cross_dev_app,com.eastmoney.android.berlin,东方财富,Eastmoney,7,0,False,,,False,10023010,https://pp.myapp.com/ma_icon/0/icon_269677_1737509277/256
+cross_dev_app,com.ss.android.yumme.video,抖音精选,抖音精选,7,0,False,,,False,320701,https://pp.myapp.com/ma_icon/0/icon_54290999_1737456876/256
+cross_dev_app,com.ss.android.ugc.aweme.lite,抖音极速版,抖音极速版,7,0,False,,,False,320801,https://pp.myapp.com/ma_icon/0/icon_53918993_1737366221/256
+cross_dev_app,com.sina.weibo,微博,Weibo,7,0,False,,,False,6501,https://pp.myapp.com/ma_icon/0/icon_9926_1701855671/256
+cross_dev_app,com.phoenix.read,红果免费短剧,红果免费短剧,7,0,False,,,False,65532,https://pp.myapp.com/ma_icon/0/icon_54278041_1741316252/256
+cross_dev_app,com.smile.gifmaker,快手,Kuaishou,7,0,False,,,False,40125,https://pp.myapp.com/ma_icon/0/icon_2608_1738930087/256
+cross_dev_app,com.youku.phone,优酷视频,优酷视频,7,0,False,,,False,786,https://pp.myapp.com/ma_icon/0/icon_10197_1737533622/256
+cross_dev_app,com.hundsun.winner.pazq,平安证券,平安证券,7,0,False,,,False,906010,https://pp.myapp.com/ma_icon/0/icon_1296762_1732866623/256
+cross_dev_app,air.tv.douyu.android,斗鱼,斗鱼,7,0,False,,,False,10789005,https://pp.myapp.com/ma_icon/0/icon_10921913_1737685464/256
+cross_dev_app,com.hunantv.imgo.activity,芒果TV,芒果TV,7,0,False,,,False,8303100,https://pp.myapp.com/ma_icon/0/icon_200479_1740706184/256
+cross_dev_app,com.duowan.kiwi,虎牙直播,虎牙直播,7,0,False,,,False,99309,https://pp.myapp.com/ma_icon/0/icon_10328082_1737529521/256
+cross_dev_app,com.nio.alps,乐道汽车,乐道汽车,7,0,False,,,False,6,https://pp.myapp.com/ma_icon/0/icon_54378213_1737098674/256
+cross_dev_app,com.cctv.yangshipin.app.androidp,央视频,央视频,7,0,False,,,False,300060,https://pp.myapp.com/ma_icon/0/icon_53950706_1740622688/256
+cross_dev_app,com.cmschina.stock,招商证券,招商证券,7,0,False,,,False,770,https://pp.myapp.com/ma_icon/0/icon_12160815_1736844797/256
+cross_dev_app,com.ss.android.article.video,西瓜视频,西瓜视频,7,0,False,,,False,916,https://pp.myapp.com/ma_icon/0/icon_42294302_1738748254/256
+cross_dev_app,com.guosen.android,国信金太阳,国信金太阳,7,0,False,,,False,241,https://pp.myapp.com/ma_icon/0/icon_9827_1737078182/256
+cross_dev_app,com.kuaishou.nebula,快手极速版,快手极速版,7,0,False,,,False,9265,https://pp.myapp.com/ma_icon/0/icon_52750274_1741246959/256
+cross_dev_app,com.cmcc.cmvideo,咪咕视频,Migu Video,7,0,False,,,False,260330009,https://pp.myapp.com/ma_icon/0/icon_10939789_1741667008/256
+cross_dev_app,com.zxscnew,中信证券,中信证券,7,0,False,,,False,2024083000,https://pp.myapp.com/ma_icon/0/icon_42273588_1736213415/256
+cross_dev_app,cn.xuexi.android,学习强国,学习强国,7,0,False,,,False,25902,https://pp.myapp.com/ma_icon/0/icon_52803833_1736278389/256
+cross_dev_app,com.android.chrome,Chrome,Chrome,7,0,False,,,False,390000000,https://pp.myapp.com/ma_icon/0/icon_74260_1609923779/256
+cross_dev_app,com.ss.android.article.news,今日头条,Toutiao,7,0,False,,,False,10100,https://pp.myapp.com/ma_icon/0/icon_213141_1731594566/256
+cross_dev_app,com.quark.browser,夸克,夸克,7,0,False,,,False,762,https://pp.myapp.com/ma_icon/0/icon_42375936_1741602783/256
+cross_dev_app,com.netease.filmlytv,网易爆米花,网易爆米花,7,0,False,,,False,311,https://pp.myapp.com/ma_icon/0/icon_54397981_1767086633/256
+cross_dev_app,com.oumi.utility.media.hub,VidHub,VidHub,7,0,False,,,False,84,https://pp.myapp.com/ma_icon/0/icon_54449076_1763429867/256
+cross_dev_app,cn.futu.trader,富途牛牛,Futubull,7,0,False,,,False,10608,https://pp.myapp.com/ma_icon/0/icon_10418219_1683199916/96
+cross_dev_game,com.tencent.tmgp.aligames.kybc,狂野飙车,狂野飙车,3,1,True,fitX,"[1728, 1296]",,36033,https://pp.myapp.com/ma_icon/0/icon_53688241_1683792022/256
+cross_dev_game,com.tencent.tmgp.g67,暗黑破坏神:不朽,暗黑破坏神:不朽,3,1,True,fitX,"[1728, 1296]",,14382342,https://pp.myapp.com/ma_icon/0/icon_54217670_1686790815/256
+cross_dev_game,com.tencent.tmgp.bilibili.deadcells.mobile,重生细胞,Dead Cells,3,1,True,fitX,"[1728, 1296]",,189,https://pp.myapp.com/ma_icon/0/icon_54117525_1688626815/256
+cross_dev_game,com.tencent.jkchess,金铲铲之战,金铲铲之战,1,1,True,fitX,"[1728, 1296]",,998,https://pp.myapp.com/ma_icon/0/icon_54152245_1695227541/256
+cross_dev_game,com.tencent.tmgp.supercell.clashroyale,皇室战争,Clash Royale,1,1,True,fitXY,,,576,https://pp.myapp.com/ma_icon/0/icon_42302142_1698969759/256
+cross_dev_game,com.tencent.tmgp.dfjs,巅峰极速,巅峰极速,1,1,True,fitX,"[1728, 1296]",,91,https://pp.myapp.com/ma_icon/0/icon_54285285_1706769624/256
+cross_dev_game,com.tencent.tmgp.aceracer,王牌竞速,王牌竞速,1,1,True,fitX,"[1728, 1296]",,40400,https://pp.myapp.com/ma_icon/0/icon_54158215_1706518183/256
+cross_dev_game,com.tencent.tmgp.yongyong.skzq,实况足球,实况足球,1,1,True,fitX,"[1728, 1296]",,308020001,https://pp.myapp.com/ma_icon/0/icon_52656803_1704765615/256
+cross_dev_game,com.tencent.tmgp.eyou.eygy,光·遇,光·遇,1,1,True,fitX,"[1728, 1296]",,240939,https://pp.myapp.com/ma_icon/0/icon_53801931_1706580421/256
+cross_dev_game,com.happyelements.AndroidAnimal.qq,开心消消乐,Anipop,9,1,True,fitXY,,,130,https://pp.myapp.com/ma_icon/0/icon_10556677_1699840810/256
