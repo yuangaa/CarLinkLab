@@ -61,3 +61,8 @@ backup/
 data/canvas-power/
 auth-assets/
 offline-mfi/
+
+# Reviewed simulation previews only
+!assets/previews/am-simulated.png
+!assets/previews/spotify-simulated.png
+!assets/previews/keyboard-simulated.png
